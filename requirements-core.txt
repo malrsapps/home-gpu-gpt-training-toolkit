@@ -1,0 +1,5 @@
+transformers
+tokenizers
+tqdm
+numpy
+wikiextractor
