@@ -194,5 +194,3 @@ Released under the Apache 2.0 License.
 ---
 
 **Created by MA**
-
-Focused on practical local AI workflows and low-resource experimentation.

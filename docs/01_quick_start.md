@@ -4,6 +4,14 @@ This guide shows the expected high-level workflow for using the Home GPU GPT Tra
 
 The toolkit is designed to be run from the repository root.
 
+## Important Note
+
+This document describes the broader experimental workflow used during development.
+
+The public repository only includes a lightweight demonstration subset of this workflow.
+
+Some scripts and orchestration components referenced below are maintained separately from the public demo repository.
+
 ---
 
 ## 1. Create a Python Environment
