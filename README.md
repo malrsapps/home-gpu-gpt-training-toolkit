@@ -92,6 +92,7 @@ Several important observations emerged:
 ## Documentation
 
 - [Quick Start](docs/01_quick_start.md)
+- [Public Demo Scope](docs/02_public_demo_scope.md)
 - [Design Notes](docs/03_design_notes.md)
 - [Full Training Workflow](docs/05_full_training_workflow.md)
 - [Troubleshooting](docs/06_troubleshooting.md)
