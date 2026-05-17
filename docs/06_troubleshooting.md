@@ -176,6 +176,22 @@ Long runtimes are expected on consumer hardware.
 
 ---
 
+# Hardware Temperature Notes
+
+Long-running training sessions may increase GPU and system temperatures, especially on older consumer GPUs, laptops, or systems with limited airflow.
+
+During longer experiments:
+
+- monitor GPU temperature
+- ensure proper cooling and ventilation
+- avoid blocking laptop air vents
+- consider shorter training runs for testing
+- stop training if the system becomes unstable
+
+This toolkit is intended for experimentation, and users are responsible for monitoring their own hardware.
+
+---
+
 # schedule.json and state.json Mismatch
 
 ## Symptoms
