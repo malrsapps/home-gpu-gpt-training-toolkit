@@ -194,4 +194,12 @@ Released under the Apache 2.0 License.
 
 ---
 
+## Related Article
+
+**Training GPT-Style Models on a GTX1050: What I Learned**
+
+https://medium.com/@malrsapps/training-gpt-style-models-on-a-gtx1050-what-i-learned-3a1534d75cc5
+
+---
+
 **Created by MA**
