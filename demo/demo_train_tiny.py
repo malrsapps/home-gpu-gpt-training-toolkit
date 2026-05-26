@@ -8,7 +8,7 @@ state tracking, or checkpoint orchestration used in the full toolkit.
 
 Example:
     python demo/demo_train_tiny.py \
-        --data demo/sample_data/demo_wikipedia.jsonl \
+        --data demo/sample_data/demo_corpus.jsonl \
         --tokenizer demo/tokenizer \
         --output demo/tiny_checkpoint \
         --max-steps 20
